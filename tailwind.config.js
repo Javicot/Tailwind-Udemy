@@ -4,11 +4,15 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        blancoy: "#ffffff",
+        blanco: "#ffffff",
         oscuro: "#212121",
         primario: "#ffc107",
         secundario: "#0097a7",
         gris: "#757575",
+      },
+      screens: {
+        movil: "440px",
+        noxl: { max: "439px" },
       },
     },
   },
