@@ -1,0 +1,26 @@
+{
+  "name": "tailwind-udemy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javicot/Tailwind-Udemy.git"
+  },
+  "keywords": [],
+  "author": "Javier Tintaya <jhosimart42@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Javicot/Tailwind-Udemy/issues"
+  },
+  "homepage": "https://github.com/Javicot/Tailwind-Udemy#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.18",
+    "tailwindcss": "^3.2.2",
+    "vite": "^3.2.3"
+  }
+}
