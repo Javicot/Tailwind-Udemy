@@ -6,4 +6,7 @@
   .nav-bar {
     @apply hover:bg-primario hover:text-black text-white p-3 transform duration-300 noxl:hover:bg-transparent;
   }
+  .boton {
+    @apply hover:bg-primario hover:text-black text-white p-3 transform duration-300;
+  }
 }
