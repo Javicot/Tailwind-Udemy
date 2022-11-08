@@ -14,6 +14,10 @@ module.exports = {
         movil: "440px",
         noxl: { max: "439px" },
       },
+      backgroundImage: {
+        "hero-image":
+          "url('https://images.pexels.com/photos/4144923/pexels-photo-4144923.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2')",
+      },
     },
   },
   plugins: [],
