@@ -9,4 +9,7 @@
   .boton {
     @apply hover:bg-primario hover:text-black text-white p-3 transform duration-300;
   }
+  .rounded-Yellow {
+    @apply bg-yellow-300 rounded-full w-14 h-14 flex justify-center items-center;
+  }
 }
